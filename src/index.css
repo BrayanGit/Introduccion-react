@@ -5,6 +5,21 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color: #863A6F !important;
+}
+
+main {
+  width: 800px;
+  min-height: 100vh;
+  text-align: center;
+  margin: 0 auto;
+  background-color: #F49D1A;
+  padding: 40px;
+  overflow: hidden;
+}
+
+h1 {
+  margin: 20px auto;
 }
 
 code {

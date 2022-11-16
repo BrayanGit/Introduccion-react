@@ -1,0 +1,7 @@
+.imagen_galeria {
+    width: 30%;
+    float: left;
+    background-color: #FFE15D;
+    opacity: .9;
+    padding: 10px;
+}

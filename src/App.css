@@ -1,4 +1,9 @@
-.App {
+.contenedor_imagenes {
+  width: 100%;
+  overflow: hidden;
+}
+
+/*.App {
   text-align: center;
 }
 
@@ -36,3 +41,4 @@
     transform: rotate(360deg);
   }
 }
+*/
